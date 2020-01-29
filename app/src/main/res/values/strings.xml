@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ageCalculator</string>
+    <string name="btnText">Get My Age</string>
+</resources>
